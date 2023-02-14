@@ -1,0 +1,132 @@
+ERROR 
+ La expresion no esta equilibrada (A+B)+[(C+D}/E-C]
+ 
+ Por favor modifique el archivo
+
+Expresion Infija: D-B+E/B^C+A*D) Posfija:DBEBC^AD*+/+- 
+
+ Valores sustituidos: 38785^43*+/+- Evaluacion: -5.000214
+
+
+Expresion Infija: {A-(B/C+(D*E*F)/G)*H}
+) Posfija:ABC/DEF**G/+H*- 
+
+ Valores sustituidos: 485/372**1/+9*- Evaluacion: -388.399994
+
+
+Expresion Infija: (A+H)*G/E^D-B
+) Posfija:AH+GED^B-/* 
+
+ Valores sustituidos: 49+173^8-/* Evaluacion: 0.038806
+
+
+ERROR 
+ La expresion no esta equilibrada (A+B)+[(C+D}/E-C]
+ 
+ Por favor modifique el archivo
+
+Expresion Infija: D-B+E/B^C+A*D) Posfija:DBEBC^AD*+/+- 
+
+ Valores sustituidos: 38785^43*+/+- Evaluacion: -5.000214
+
+
+Expresion Infija: {A-(B/C+(D*E*F)/G)*H}
+) Posfija:ABC/DEF**G/+H*- 
+
+ Valores sustituidos: 485/372**1/+9*- Evaluacion: -388.399994
+
+
+Expresion Infija: (A+H)*G/E^D-B
+) Posfija:AH+GED^B-/* 
+
+ Valores sustituidos: 49+173^8-/* Evaluacion: 0.038806
+
+
+ERROR 
+ La expresion no esta equilibrada (A+B)+[(C+D}/E-C]
+ 
+ Por favor modifique el archivo
+
+Expresion Infija: D-B+E/B^C+A*D) Posfija:DBEBC^AD*+/+- 
+
+ Valores sustituidos: 38785^43*+/+- Evaluacion: -5.000214
+
+
+Expresion Infija: {A-(B/C+(D*E*F)/G)*H}
+) Posfija:ABC/DEF**G/+H*- 
+
+ Valores sustituidos: 485/372**1/+9*- Evaluacion: -388.399994
+
+
+Expresion Infija: (A+H)*G/E^D-B
+) Posfija:AH+GED^B-/* 
+
+ Valores sustituidos: 49+173^8-/* Evaluacion: 0.038806
+
+
+ERROR 
+ La expresion no esta equilibrada (A+B)+[(C+D}/E-C]
+ 
+ Por favor modifique el archivo
+
+Expresion Infija: D-B+E/B^C+A*D) Posfija:DBEBC^AD*+/+- 
+
+ Valores sustituidos: 38785^43*+/+- Evaluacion: -5.000214
+
+
+Expresion Infija: {A-(B/C+(D*E*F)/G)*H}
+) Posfija:ABC/DEF**G/+H*- 
+
+ Valores sustituidos: 485/372**1/+9*- Evaluacion: -388.399994
+
+
+Expresion Infija: (A+H)*G/E^D-B
+) Posfija:AH+GED^B-/* 
+
+ Valores sustituidos: 49+173^8-/* Evaluacion: 0.038806
+
+
+ERROR 
+ La expresion no esta equilibrada (A+B)+[(C+D}/E-C]
+ 
+ Por favor modifique el archivo
+
+Expresion Infija: D-B+E/B^C+A*D) Posfija:DBEBC^AD*+/+- 
+
+ Valores sustituidos: 38785^43*+/+- Evaluacion: -5.000214
+
+
+Expresion Infija: {A-(B/C+(D*E*F)/G)*H}
+) Posfija:ABC/DEF**G/+H*- 
+
+ Valores sustituidos: 485/372**1/+9*- Evaluacion: -388.399994
+
+
+Expresion Infija: (A+H)*G/E^D-B
+) Posfija:AH+GED^B-/* 
+
+ Valores sustituidos: 49+173^8-/* Evaluacion: 0.038806
+
+
+ERROR 
+ La expresion no esta equilibrada (A+B)+[(C+D}/E-C]
+ 
+ Por favor modifique el archivo
+
+Expresion Infija: D-B+E/B^C+A*D) Posfija:DBEBC^AD*+/+- 
+
+ Valores sustituidos: 38785^43*+/+- Evaluacion: -5.000214
+
+
+Expresion Infija: {A-(B/C+(D*E*F)/G)*H}
+) Posfija:ABC/DEF**G/+H*- 
+
+ Valores sustituidos: 485/372**1/+9*- Evaluacion: -388.399994
+
+
+Expresion Infija: (A+H)*G/E^D-B
+) Posfija:AH+GED^B-/* 
+
+ Valores sustituidos: 49+173^8-/* Evaluacion: 0.038806
+
+

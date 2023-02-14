@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1580678807 source:c:\users\braya\documents\estructura de datos\pila\pila\main.c
+	"Pila.h"
+
+1580678910 c:\users\braya\documents\estructura de datos\pila\pila\pila.h
+	<stdio.h>
+	<stdlib.h>
+
+1580678910 source:c:\users\braya\documents\estructura de datos\pila\pila\pila.c
+	"Pila.h"
+

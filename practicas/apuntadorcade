@@ -1,0 +1,35 @@
+#include <stdio.h>
+
+char strA[20] = "Cadena ejemplo";
+
+char strB[20];
+
+int main(void) {
+
+    char *apA, *apB;
+
+    apA = strA;
+
+    printf("\nEl valor del APUNTADOR interpretado como cadena es: %s",apA);
+
+    printf("\nEl valor del CONTENIDO del apuntador es: %c",*apA);
+
+    printf("\nEl valor de la DIRECCION a la que apunta el apuntador es: %p",apA);
+
+    printf("\nEl valor de la DIRECCION DEL APUNTADOR es: %p",&apA);
+
+    apB = strB;
+
+    while(*apA != '\0')
+
+    {  *apB++ = *apA++;  }
+
+    *apB = '\0';
+
+    putchar('\n');
+
+    puts(strB);
+
+    return 0;
+
+}

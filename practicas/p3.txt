@@ -1,0 +1,11 @@
+Expresion Infija: {A-(B/C+(D%E*F)/G)*H}) Posfija:ABC/DEF*%G/+H*- 
+
+ Valores sustituidos: 485/372*%1/+9*- Evaluacion: -32
+
+
+Expresion Infija: (A+B)+[(C+D)/E-C]
+) Posfija:AB+CD+E/C-+ 
+
+ Valores sustituidos: 48+53+7/5-+ Evaluacion: 8
+
+
